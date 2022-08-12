@@ -1,3 +1,4 @@
+addons/godot-git-plugin
 
 # Godot-specific ignores
 .import/
